@@ -10,6 +10,9 @@ import TheWelcome from './components/TheWelcome.vue'
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
     </div>
+    <div>
+      这是一个新的提交
+    </div>
   </header>
 
   <main>
