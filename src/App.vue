@@ -11,9 +11,7 @@ import List from './components/List.vue'
     <div class="wrapper">
       <!-- <HelloWorld msg="You did it!" /> -->
     </div>
-    <div>
-      这是一个新的提交
-    </div>
+    
   </header>
 
   <main>
