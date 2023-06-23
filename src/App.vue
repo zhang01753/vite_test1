@@ -9,7 +9,7 @@ import List from './components/List.vue'
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <!-- <HelloWorld msg="You did it!" /> -->
     </div>
     <div>
       这是一个新的提交
@@ -17,7 +17,7 @@ import List from './components/List.vue'
   </header>
 
   <main>
-    <TheWelcome />
+    <!-- <TheWelcome /> -->
     <List />
   </main>
 </template>
