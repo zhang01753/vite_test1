@@ -11,6 +11,7 @@ import router from './routers/index';
 
 const app = createApp(App);
 
+
 app.use(Antd).mount('#app');
 // 5. 创建并挂载根实例
 
